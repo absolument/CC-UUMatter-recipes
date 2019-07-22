@@ -18,7 +18,7 @@ UU.lua
 ```
 
 ## Example
-```
+```lua
     {
       i = 1,
       name = "minecraft:dirt",
