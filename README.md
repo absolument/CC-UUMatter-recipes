@@ -1,5 +1,7 @@
 # CC-UUMatter-recipes
-Test and record every possible crafting recipes with UU-Matter (IndustrialCraft)
+Test and record every possible crafting recipes with UU-Matter.
+
+(UU-Matter is an item added by IndustrialCraft2 which is used to craft many different resources. It can be combined at a Crafting Table in various arrangements to make new materials. https://ftbwiki.org/UU-Matter_(IndustrialCraft_2) )
 
 ## Usage
 Setup a crafty turtle between 2 chest. Feed up chest with some stacks of UU-Matter (more or less 5 stacks). Down chest is output.
