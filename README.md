@@ -5,7 +5,7 @@ Test and record every possible crafting recipes with UU-Matter (IndustrialCraft)
 Setup a crafty turtle between 2 chest. Feed up chest with some stacks of UU-Matter (more or less 5 stacks). Down chest is output.
 
 ```
-pastebin get x UUMatter
+pastebin get 2E8PRaYp UUMatter.lua
 
 UUMatter
 ```
