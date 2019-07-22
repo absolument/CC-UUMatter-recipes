@@ -1,5 +1,5 @@
 # CC-UUMatter-recipes
-Test and record every possible crafting recipes with UU-Matter.
+With ComputerCraft, test and record every possible crafting recipes with UU-Matter.
 
 > [UU-Matter](https://ftbwiki.org/UU-Matter_(IndustrialCraft_2)) is an item added by IndustrialCraft2 which is used to craft many different resources. It can be combined at a Crafting Table in various arrangements to make new materials. 
 
