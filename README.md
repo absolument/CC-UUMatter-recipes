@@ -19,6 +19,8 @@ UU.lua
 
 ## Example
 ```lua
+{
+  UURecipes = {
     {
       i = 1,
       name = "minecraft:dirt",
